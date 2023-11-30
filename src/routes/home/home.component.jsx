@@ -4,7 +4,11 @@ const Home = () => {
     return (
         <div>
             <h1>I'm Danny</h1>
-            <p>Here's a little about myself</p>
+            <p>
+                More information coming soon!
+                <br/><br/>
+                Contact me at <a href="mailto: dannybeaudoin@dannybeaudoin613.com">dannybeaudoin@dannybeaudoin613.com</a>
+            </p>
         </div>
     );
 };

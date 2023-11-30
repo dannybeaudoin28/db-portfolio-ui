@@ -23,7 +23,7 @@ import Typography from '@mui/material/Typography';
 import Button from '@mui/material/Button';
 
 const drawerWidth = 240;
-const navItems = ['home', 'my work', 'contact me'];
+const navItems = ['home', 'projects'];
 
 const Navigation = (props) => {
     const { window } = props;
@@ -36,7 +36,7 @@ const Navigation = (props) => {
     const drawer = (
         <Box onClick={handleDrawerToggle} sx={{ textAlign: 'center' }}>
             <Typography variant="h6" sx={{ my: 2 }}>
-                MourneWithMe
+                Danny Beaudoin
             </Typography>
             <Divider />
             <List>
