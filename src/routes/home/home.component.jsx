@@ -7,7 +7,6 @@ const Home = () => {
                 With a deep understanding of back-end development best practices, I am an innovative developer
                 experienced in Java and Spring-Boot. I deliver high-quality products that meet client's needs.
             </h1>
-            <h2></h2>
             <p className='about-content'></p>
             <h2>My Background:</h2>
             <p className='about-content'>
