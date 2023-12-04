@@ -1,10 +1,11 @@
 import './home.styles.scss';
 
-const Home = () => {    
+const Home = () => {
     return (
         <div>
+            <h1>Testing</h1>
             <h1 className='about-content'>
-                With a deep understanding of back-end development best practices, I am an innovative developer 
+                With a deep understanding of back-end development best practices, I am an innovative developer
                 experienced in Java and Spring-Boot. I deliver high-quality products that meet client's needs.
             </h1>
             <h2></h2>
